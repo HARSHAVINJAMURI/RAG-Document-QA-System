@@ -171,6 +171,3 @@ This project is open-source and intended for educational and portfolio use.
 **Developed and maintained by Harsha Vinjamuri**
 Portfolio: [https://harshavinjamuri.framer.ai/](https://harshavinjamuri.framer.ai/)
 
-```
-```
-
