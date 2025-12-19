@@ -1,7 +1,5 @@
-fastapi
-uvicorn
+streamlit
 faiss-cpu
 sentence-transformers
 pypdf
-ollama
-streamlit
+groq
